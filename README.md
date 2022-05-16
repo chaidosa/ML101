@@ -1,2 +1,2 @@
 # ML101
-Fundamentals and various application and algorithms of machine leaning.
+Fundamentals and various applications and algorithms of machine leaning.
